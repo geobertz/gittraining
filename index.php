@@ -6,6 +6,6 @@
 </head>
 <body>
 	<?php require_once "include/nav.php"; ?>
-	<h1>Welcome to Adsurf! How can we help you?</h1>
+	<h1>Welcome to Adsurf! Great things happen!</h1>
 </body>
 </html>
