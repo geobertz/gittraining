@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	font-family: verdana;
+}
+
+ul.navigation{
+	margin: 0;
+	padding: 0;
+	background: #125454;
+}
+
+ul.navigation > li{
+	display: inline-block;
+}
+
+ul.navigation > li > a{
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+}
